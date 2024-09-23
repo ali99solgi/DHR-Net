@@ -4,6 +4,8 @@ In this project, we developed a framework to detect hairs in dermoscopic images 
 
 Refer to the [Generative Image Inpainting repository](https://github.com/JiahuiYu/generative_inpainting) to download the GAN weights.
 
-An example of hair occluded image, binary hair segmentation mask and inpainted image can be seen below.
+An example of a hair-occluded image, along with the segmented hair mask and inpainted image, is shown below.
 
-![original](./ISIC_0011327_original.png)![mask](./ISIC_0011327_mask.png)![inpainted](./ISIC_0011327_inpainted.png)
+![original](./ISIC_0011327_original.png)
+![mask](./ISIC_0011327_mask.png)
+![inpainted](./ISIC_0011327_inpainted.png)
