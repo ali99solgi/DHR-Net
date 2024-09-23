@@ -3,3 +3,9 @@ Skin lesion segmentation is concerned with identifying and separating lesions (s
 In this project, we developed a framework to detect hairs in dermoscopic images and subsequently remove them using a GAN. The processed dermoscopic images can then be used to detect skin lesions through specialized networks (e.g., a melanoma segmentation network), resulting in improved detection and segmentation of lesions.
 
 Refer to the [Generative Image Inpainting repository](https://github.com/JiahuiYu/generative_inpainting) to download the GAN weights.
+
+An example of hair occluded image, binary hair segmentation mask and inpainted image can be seen below.
+
+![original](./ISIC_0011327_original.png)
+![mask](./ISIC_0011327_mask.png)
+![inpainted](./ISIC_0011327_inpainted.png)
