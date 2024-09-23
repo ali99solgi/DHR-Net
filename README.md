@@ -6,6 +6,4 @@ Refer to the [Generative Image Inpainting repository](https://github.com/JiahuiY
 
 An example of hair occluded image, binary hair segmentation mask and inpainted image can be seen below.
 
-![original](./ISIC_0011327_original.png)
-![mask](./ISIC_0011327_mask.png)
-![inpainted](./ISIC_0011327_inpainted.png)
+![original](./ISIC_0011327_original.png)![mask](./ISIC_0011327_mask.png)![inpainted](./ISIC_0011327_inpainted.png)
